@@ -21,6 +21,8 @@ jobs:
         run: |
           npm install axios
           node .github/scripts/update-activity.js
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & push changes
         run: |
