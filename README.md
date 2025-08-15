@@ -11,11 +11,11 @@
 ## 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)<br>
+⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
+⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
+⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
+⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
+⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
 <!--RECENT_ACTIVITY:end-->
 
 ---
