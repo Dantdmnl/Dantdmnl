@@ -8,18 +8,6 @@
 
 ---
 
-## 🚀 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
-⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
-⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
-⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
-⬆️ Pushed 1 commit(s) to [Dantdmnl/Dantdmnl](https://github.com/Dantdmnl/Dantdmnl)
-<!--RECENT_ACTIVITY:end-->
-
----
-
 ## 🔧 Featured Projects
 
 - **[leenlaptop‑schoonmaak‑script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** — Automates loaner laptop cleanup & reconfiguration  
