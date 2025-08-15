@@ -1,0 +1,16 @@
+name: Update README with activity
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JamesIves/github-activity-readme@v0.4.0
+        with:
+          COMMIT_MSG: "chore: update activity section"
+          MAX_LINES: 5
