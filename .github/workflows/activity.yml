@@ -1,21 +1,31 @@
-name: Update README with Recent Activity
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update_activity:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GH_USERNAME: Dantdmnl
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          INCLUDE_EVENT_TYPES: "PushEvent,PullRequestEvent,IssuesEvent"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Update README with latest activity
+        run: |
+          npm install axios
+          node .github/scripts/update-activity.js
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent activity" || echo "No changes"
+          git push
