@@ -18,4 +18,4 @@ jobs:
         env:
           GH_USERNAME: Dantdmnl
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+          INCLUDE_EVENT_TYPES: "PushEvent,PullRequestEvent,IssuesEvent"
