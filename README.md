@@ -8,15 +8,16 @@
 
 ---
 
-## 🚀 Latest Activity
+## 🚀 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
 ## 🔧 Featured Projects
-- **[leenlaptop-schoonmaak-script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** — Automates loaner laptop cleanup and reconfiguration  
+
+- **[leenlaptop‑schoonmaak‑script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** — Automates loaner laptop cleanup & reconfiguration  
 - **[Share_Manager](https://github.com/Dantdmnl/Share_Manager)** — Interactive PowerShell tool for network share management  
 - **[Network_Configuration_Script](https://github.com/Dantdmnl/Network_Configuration_Script)** — Utility for configuring IPv4 settings
 
