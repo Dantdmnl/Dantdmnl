@@ -13,7 +13,7 @@
 - **[leenlaptop‑schoonmaak‑script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** — Automates loaner laptop cleanup & reconfiguration  
 - **[Share_Manager](https://github.com/Dantdmnl/Share_Manager)** — Interactive PowerShell tool for network share management  
 - **[Network_Configuration_Script](https://github.com/Dantdmnl/Network_Configuration_Script)** — Utility for configuring IPv4 settings
-- **[Checksum-Verify](https://github.com/Dantdmnl/Checksum-Verify).** — Menu-driven PowerShell checksum tool (MD5/SHA1/SHA256/...) with clipboard & ISE support 
+- **[Checksum-Verify](https://github.com/Dantdmnl/Checksum-Verify)** — Menu-driven PowerShell checksum tool (MD5/SHA1/SHA256/...) with clipboard & ISE support 
 
 ---
 
