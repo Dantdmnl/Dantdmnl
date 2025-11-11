@@ -36,7 +36,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Dantdmnl&color=orange&style=for-the-badge)](https://github.com/Dantdmnl)
 [![Repo Stars](https://img.shields.io/github/stars/Dantdmnl?color=yellow&style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/Dantdmnl?color=blue&style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=followers)
+[![Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.data.user.followers.totalCount&url=https%3A%2F%2Fapi.github.com%2Fgraphql&style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=followers)
 [![Last Commit](https://img.shields.io/github/last-commit/Dantdmnl/Dantdmnl?color=blueviolet&logo=github&style=for-the-badge)](https://github.com/Dantdmnl/Dantdmnl/commits/main)
 
 <details>
