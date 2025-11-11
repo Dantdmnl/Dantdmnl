@@ -1,11 +1,12 @@
 ## 📊 GitHub Overview
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dantdmnl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Dantdmnl&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantdmnl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Dantdmnl)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantdmnl&theme=tokyonight&hide_border=true)](https://github.com/Dantdmnl)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantdmnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/Dantdmnl)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantdmnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <details>
@@ -36,7 +37,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Dantdmnl&color=orange&style=for-the-badge)](https://github.com/Dantdmnl)
 [![Repo Stars](https://img.shields.io/github/stars/Dantdmnl?color=yellow&style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=repositories)
-[![Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.data.user.followers.totalCount&url=https%3A%2F%2Fapi.github.com%2Fgraphql&style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=followers)
+[![Followers](https://img.shields.io/badge/Followers-Visit_Profile-blue?style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=followers)
 [![Last Commit](https://img.shields.io/github/last-commit/Dantdmnl/Dantdmnl?color=blueviolet&logo=github&style=for-the-badge)](https://github.com/Dantdmnl/Dantdmnl/commits/main)
 
 <details>
