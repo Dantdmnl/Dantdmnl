@@ -1,65 +1,101 @@
-## 📊 GitHub Overview
-
-<details>
-<summary>📈 Dynamic Stats (May have token limitations)</summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dantdmnl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Dantdmnl&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantdmnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-</details>
-
-<details>
-<summary>Alternative Stats View</summary>
-
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantdmnl&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dantdmnl&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dantdmnl&theme=tokyonight)
+# 👋 Hey, I'm Ruben
+
+### 💻 Student | PowerShell Enthusiast | Networking & Automation Nerd
+
+*Making IT operations easier, one script at a time*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Dantdmnl&color=blueviolet&style=flat-square)](https://github.com/Dantdmnl)
+[![GitHub Stars](https://img.shields.io/github/stars/Dantdmnl?style=flat-square&logo=github&color=yellow)](https://github.com/Dantdmnl?tab=repositories)
 
 </div>
-
-</details>
 
 ---
 
-## 🔧 Featured Projects
+## 🎯 About Me
 
-- **[leenlaptop‑schoonmaak‑script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** — Automates loaner laptop cleanup & reconfiguration  
-- **[Share_Manager](https://github.com/Dantdmnl/Share_Manager)** — Interactive PowerShell tool for network share management  
-- **[Network_Configuration_Script](https://github.com/Dantdmnl/Network_Configuration_Script)** — Utility for configuring IPv4 settings
-- **[Checksum-Verify](https://github.com/Dantdmnl/Checksum-Verify)** — Menu-driven PowerShell checksum tool (MD5/SHA1/SHA256/...) with clipboard & ISE support 
+I'm a **student** who loves building **practical PowerShell tools** for system administration, networking, and automation. I create scripts that solve real IT problems and make tedious tasks disappear.
+
+- 🎓 **Status:** Student learning system administration, networking & automation
+- 🔧 **Focus:** PowerShell scripting, network configuration, and IT automation
+- 🌐 **Networking:** IPv4 configuration, network shares, and infrastructure management
+- 🌱 **Currently:** Expanding my automation toolkit and diving deeper into networking
+- 💡 **Goal:** Build tools that are actually useful and easy to use
+
+---
+
+## 🛠️ My Stack
+
+```powershell
+# What I work with
+$MyToolkit = @{
+    Languages   = @("PowerShell", "Batch", "Shell")
+    Focus       = @("System Administration", "Network Management", "Automation")
+    Networking  = @("IPv4 Configuration", "Network Shares", "DNS", "DHCP")
+    Tools       = @("Windows Server", "Active Directory", "VS Code")
+    Learning    = @("Advanced Scripting", "Infrastructure Management", "Network Security")
+}
+```
+
+<div align="center">
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00758F?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Loaner Laptop Cleanup](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script)** | Automates loaner laptop sanitization & reconfiguration |
+| **[Share Manager](https://github.com/Dantdmnl/Share_Manager)** | Interactive PowerShell tool for managing network shares |
+| **[Network Configuration](https://github.com/Dantdmnl/Network_Configuration_Script)** | Quick utility for configuring IPv4, DNS, gateways & subnets |
+| **[Checksum Verify](https://github.com/Dantdmnl/Checksum-Verify)** | Multi-algorithm file integrity checker with menu interface |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantdmnl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantdmnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 💭 My Approach
+
+```powershell
+function Get-MyPhilosophy {
+    $Principles = @(
+        "Write clean, maintainable code"
+        "Build tools people actually want to use"
+        "Learn from mistakes and iterate"
+        "Share knowledge with the community"
+    )
+    
+    return $Principles | ForEach-Object { "✓ $_" }
+}
+```
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Dantdmnl&color=orange&style=for-the-badge)](https://github.com/Dantdmnl)
-[![Repo Stars](https://img.shields.io/badge/Stars-View_Repos-yellow?style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-Visit_Profile-blue?style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=followers)
-[![Recent Activity](https://img.shields.io/badge/Activity-View_Commits-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dantdmnl)
+**⭐ Found something useful? Star the repo!**
 
-<details>
-<summary>🔗 Alternative Badges</summary>
+[![Repositories](https://img.shields.io/badge/View-My_Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/Dantdmnl?tab=repositories)
 
-<br>
-
-**Static fallback badges:**
-- 🌟 [View Repositories](https://github.com/Dantdmnl?tab=repositories)
-- 👥 [View Followers](https://github.com/Dantdmnl?tab=followers)
-- 📅 [Recent Activity](https://github.com/Dantdmnl)
-- 💬 [Discussions](https://github.com/Dantdmnl)
-
-**Quick Links:**
-- [PowerShell Projects](https://github.com/Dantdmnl?tab=repositories&q=&type=&language=powershell)
-- [Latest Commits](https://github.com/Dantdmnl/Dantdmnl/commits/main)
-
-</details>
+*"Good automation makes hard things easy"*
 
 </div>
