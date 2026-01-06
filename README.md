@@ -61,18 +61,6 @@ $MyToolkit = @{
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantdmnl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantdmnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 💭 My Approach
 
 ```powershell
