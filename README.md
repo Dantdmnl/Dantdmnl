@@ -58,6 +58,7 @@ $MyToolkit = @{
 | **[Share Manager](https://github.com/Dantdmnl/Share_Manager)** | Interactive PowerShell tool for managing network shares |
 | **[Network Configuration](https://github.com/Dantdmnl/Network_Configuration_Script)** | Quick utility for configuring IPv4, DNS, gateways & subnets |
 | **[Checksum Verify](https://github.com/Dantdmnl/Checksum-Verify)** | Multi-algorithm file integrity checker with menu interface |
+| **[Jsonl Search](https://github.com/Dantdmnl/jsonl-search)** | A fast, interactive command-line tool for searching large JSONL files without loading them into memory |
 
 ---
 
