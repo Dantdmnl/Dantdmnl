@@ -20,6 +20,7 @@ I use GitHub for practical IT operations tools: administration scripts, network 
 | Network config | [Network_Configuration_Script](https://github.com/Dantdmnl/Network_Configuration_Script) | IPv4, DNS, gateway, subnet, and diagnostics tooling. |
 | File integrity | [Checksum-Verify](https://github.com/Dantdmnl/Checksum-Verify) | Menu-driven checksum tool with multi-hash support. |
 | Data tooling | [jsonl_search](https://github.com/Dantdmnl/jsonl_search) | Fast search for large JSONL files without loading everything into memory. |
+| Media tooling | [yt-dlp-studio](https://github.com/Dantdmnl/yt-dlp-studio) | Windows GUI for yt-dlp downloads, optional Spotify workflows, SponsorBlock, and NAS mirroring. |
 | ISO workflow | [sisou-runner](https://github.com/Dantdmnl/sisou-runner) | PowerShell runner around SISOU workflows, reports, and ISO checks. |
 | Web exposure checks | [site-audit](https://github.com/Dantdmnl/site-audit) | Experimental Python CLI for authorized site audit checks. |
 
