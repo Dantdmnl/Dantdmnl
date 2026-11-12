@@ -15,6 +15,7 @@ I use GitHub for practical IT operations tools: administration scripts, network 
 
 | Area | Repository | What it is |
 | ------ | ------------ | ------------ |
+| Proxy management | [ProxyPermit](https://github.com/Dantdmnl/ProxyPermit) | High-availability proxy management with web-based configuration, access control, synchronization, and failover. |
 | Endpoint support | [leenlaptop-schoonmaak-script](https://github.com/Dantdmnl/leenlaptop-schoonmaak-script) | Repeatable cleanup and preparation flow for loaner laptops. |
 | Network shares | [Share_Manager](https://github.com/Dantdmnl/Share_Manager) | Interactive helper for mapping and managing shared folders. |
 | Network config | [Network_Configuration_Script](https://github.com/Dantdmnl/Network_Configuration_Script) | IPv4, DNS, gateway, subnet, and diagnostics tooling. |
